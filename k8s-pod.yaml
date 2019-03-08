@@ -1,0 +1,8 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: SkaffKube-tlh
+spec:
+  containers:
+  - name: getting-started
+    image: gcr.io/SkaffKube-tlh/SkaffKube-tlh

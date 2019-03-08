@@ -1,0 +1,5 @@
+
+copied and modified following files to local dir:
+
+https://github.com/GoogleContainerTools/skaffold/blob/master/examples/getting-started/k8s-pod.yaml
+https://github.com/GoogleContainerTools/skaffold/blob/master/examples/getting-started/Dockerfile
